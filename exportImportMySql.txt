@@ -1,0 +1,5 @@
+Exporting
+mysqldump -u root -p smis > E:\idb\Swing\CoachingManagementA\SchoolMIS\smis.sql
+
+Importing
+mysql -u root -p sims < E:\idb\Swing\CoachingManagementA\SchoolMIS\coaching_management.sql
